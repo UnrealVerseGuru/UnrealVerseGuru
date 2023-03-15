@@ -1,5 +1,11 @@
-### Hi there 👋
+### ❤ Verse programming language:
 
+## ▶ VC - Verse Calculus 
+(based on paper: *The Verse Calculus: a Core Calculus for Functional Logic Programming* https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
+*todo link*
+
+## ▶ Verse programming language snippets
+*todo*
 <!--
 **UnrealVerseGuru/UnrealVerseGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
