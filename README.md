@@ -1,23 +1,27 @@
-## ❤ Verse programming language:
+# ❤ Verse programming language
+##### Functional logic language developed by Epic Games (and other authors)
+<sub> do not confuse with: ~~https://github.com/verse-lang/verse https://github.com/Idyllei/verse-pl </sub>~~
 
-### ▶ VC - Verse Calculus 
-(based on paper: *The Verse Calculus: a Core Calculus for Functional Logic Programming* https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
+### Official materials:
+▶[Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8&ab_channel=SkillsMatter)
 
-*todo link*
 
-### ▶ Verse programming language snippets
-*todo*
-<!--
-**UnrealVerseGuru/UnrealVerseGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> #### repo: [VerseSnippets](*todo*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------
+
+# 💜 VC - Verse Calculus
+##### New Core Calculus for Functional Logic Programming
+### Official materials:
+[1📝]: *[The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)*
+
+
+> #### repo: [VC_VerseCalculusNotes](https://github.com/UnrealVerseGuru/VC_VerseCalculus) contains notes from [1📝]
+
+
+
+-------------
+#### 💡 Other Verse related works:
+
+* [miniVerse](https://github.com/gregr/experiments/tree/master/verse) Attempt adhering to VC rewrite semantics with runnable examples from [1📝] written in authors miniVerse notation
