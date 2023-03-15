@@ -22,6 +22,6 @@
 
 
 -------------
-#### 💡 Other Verse related works:
+###### Other Verse related works:
 
-* [miniVerse](https://github.com/gregr/experiments/tree/master/verse) Attempt adhering to VC rewrite semantics with runnable examples from [1📝] written in authors miniVerse notation
+* <sub> [miniVerse](https://github.com/gregr/experiments/tree/master/verse) Attempt adhering to VC rewrite semantics with runnable examples from [1📝] written in authors miniVerse notation </sub>
