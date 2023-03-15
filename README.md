@@ -1,5 +1,5 @@
 #### Tutorials & news on:
-* **Verse programming language** - Functional logic programming language developed by Epic Games
+* **[Verse programming language](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)** - Functional logic programming language developed by Epic Games
    * **[reddit🟠 r/LearnVerse](https://reddit.com/r/LearnVerse)**
    * **[reddit🟠 r/VerseUnreal](https://reddit.com/r/VerseUnreal)**
 
