@@ -1,10 +1,12 @@
 #### Tutorials & news on:
 * **Verse programming language** - Functional logic programming language developed by Epic Games
-  * **[reddit🟠 r/LearnVerse](https://reddit.com/r/LearnVerse)**
-  * **[VC - Verse Calculus](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)** - new core Calculus for Functional Logic Programming (developed for Verse)
+   * **[reddit🟠 r/LearnVerse](https://reddit.com/r/LearnVerse)**
+   * **[reddit🟠 r/VerseUnreal](https://reddit.com/r/VerseUnreal)**
+
+ * **[VC - Verse Calculus](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)** - new core Calculus for Functional Logic Programming (developed for Verse)
 * **UEFN** - Unreal Editor Fortnite (known as Creative 2.0)
-  * **[reddit🟠 r/uefn](https://reddit.com/r/uefn)**
-* Unreal Engine C++, blueprints and content creation in UE
+   * **[reddit🟠 r/uefn](https://reddit.com/r/uefn)**
+*  Verse in Unreal Engine C++, blueprints and content creation in UE
 
 |❤Verse programming Language||
 |---------------------------|-----------|
