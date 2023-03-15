@@ -6,10 +6,6 @@
 ### Official materials:
 ▶[Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8&ab_channel=SkillsMatter)
 
-
-
-> #### repo: [VerseSnippets](*todo*) *TODO*
-
 -------------
 
 # 💜 VC - Verse Calculus
