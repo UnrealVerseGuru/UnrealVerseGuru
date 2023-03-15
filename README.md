@@ -1,5 +1,6 @@
 # ❤ Verse programming language
-##### Functional logic language developed by Epic Games (and other authors)
+**Functional logic language developed by Epic Games (and other authors)**
+
 <sub> do not confuse with: ~~https://github.com/verse-lang/verse https://github.com/Idyllei/verse-pl </sub>~~
 
 ### Official materials:
@@ -12,7 +13,7 @@
 -------------
 
 # 💜 VC - Verse Calculus
-##### New Core Calculus for Functional Logic Programming
+**New Core Calculus for Functional Logic Programming**
 ### Official materials:
 [1📝]: *[The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)*
 
