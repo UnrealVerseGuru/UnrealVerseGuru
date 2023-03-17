@@ -4,7 +4,7 @@
    * **[reddit🟠 r/VerseUnreal](https://reddit.com/r/VerseUnreal)**
 
  * **[VC - Verse Calculus](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)** - new core Calculus for Functional Logic Programming (developed for Verse)
-* **UEFN** - Unreal Editor Fortnite (known as Creative 2.0)
+* **[UEFN - Unreal Editor Fortnite](https://store.epicgames.com/en-US/p/fortnite--uefn)** (known as Creative 2.0)
    * **[reddit🟠 r/uefn](https://reddit.com/r/uefn)**
 *  Verse in Unreal Engine C++, blueprints and content creation in UE
 
