@@ -9,11 +9,14 @@
    * **[reddit🟠 r/uefn](https://reddit.com/r/uefn)**
    * **[UEFN Docs](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation)**
    * **[Verse in UEFN](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)**
+   * [Verse Codex](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage/blob/main/UEFN%20Verse/UEFN_VerseCodex.md) - style guide for UEFN Verse projects
 *  Verse in Unreal Engine, C++, blueprints and content creation in UE
 
 |❤Verse programming Language||
 |---------------------------|-----------|
 |**[repo: VerseProgrammingLanguage](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)**| All informations, resources about Verse + snippets |
+|**[Verse Codex]([https://github.com/UnrealVerseGuru/VerseProgrammingLanguage](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage/blob/main/UEFN%20Verse/UEFN_VerseCodex.md))**| UEFN & Verse style guide |
+
 
 |💜VC - Verse Calculus||
 |---------------------------|-----------|
