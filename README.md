@@ -1,4 +1,4 @@
-🟪[**Questions about UEFN, Verse? Join DISCORD here !**](discord.gg/bKEgXTqSCc)
+🟪[**Questions about UEFN, Verse? need help ? Join DISCORD here !**](discord.gg/bKEgXTqSCc)
 #### Tutorials & news on:
 * **[Verse programming language](https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf)** - Functional logic programming language developed by Epic Games
    * **[reddit🟠 r/LearnVerse](https://reddit.com/r/LearnVerse)**
